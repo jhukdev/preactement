@@ -1,6 +1,6 @@
 import { h, Fragment, ComponentFactory } from 'preact';
 import { mount } from 'enzyme';
-import { define } from '../src/index';
+import { define } from '../src/define';
 
 /* -----------------------------------
  *
